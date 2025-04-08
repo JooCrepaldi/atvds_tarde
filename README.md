@@ -1,2 +1,3 @@
-# atvds_tarde
-atividade feita em sala de aula sobre herança e encapsulamento
+# Integrantes:
+- Breno Valentim Bernardo
+- João Pedro Crepaldi Gonçalves
